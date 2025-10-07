@@ -72,7 +72,7 @@ Our Experties
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [extra details]([ANIMIE])**
+**➡️ [extra details](https://github.com/jspybom/ANIMIE/tree/main)**
 
 ---
 We are a full-cycle development studio. Our lab is equipped to handle:
