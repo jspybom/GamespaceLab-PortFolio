@@ -43,7 +43,7 @@ A simplified platform for NGOs to easily collect, manage, and organize donations
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [extra details]([COMMUNITY_CAFE])**
+**➡️ [extra details](https://github.com/jspybom/COMMUNITY_CAFE/tree/main)**
 
 ---
 
