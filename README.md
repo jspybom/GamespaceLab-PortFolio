@@ -29,7 +29,7 @@ A purposeful application designed to make cognitive assessment for children with
 
 **[Keywords:]** #EdTech #HealthTech #SeriousGames #Gamification #AR
 
-**➡️ [extra details]([PROJECT_BRIGHT_MINDS])**
+**➡️ [extra details]([./PROJECT_BRIGHT_MINDS/project-bright-minds.md])**
 
 ---
 
