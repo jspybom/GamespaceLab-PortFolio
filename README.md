@@ -58,7 +58,7 @@ Our Expertise & Services
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [extra details]([FLIXFLOW])**
+**➡️ [extra details](https://github.com/jspybom/FLIXFLOW/tree/main)**
 
 
 ### 4. Animie : Animie Streaming App. 
