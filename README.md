@@ -20,9 +20,7 @@ Here are a few examples of the challenges we've solved.
 
 ### 1. Project Bright Minds: Gamified Assessment for Child Development
 
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425189466334822511/Screenshot_2024-06-26_205635.png?ex=68e6ae9f&is=68e55d1f&hm=11d358564772c91a22863e252e9834e7bada035e507cedcb7cbbe4614a095c8d&" alt="Project Bright Minds Screenshot" width="100" height="100"/>
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425189467131478087/Screenshot_2024-06-26_205800.png?ex=68e6ae9f&is=68e55d1f&hm=d3174ed5f75d297fc2ed05e5db2049b11fe1523c700458f87a36d16d8c22256f&" alt="Project Bright Minds Screenshot" width="100" height="100"/>
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425189466682691725/Screenshot_2024-06-26_205720.png?ex=68e6ae9f&is=68e55d1f&hm=487a88832ff4f75e453d11e301f4474f9982d1af5f5e956a7ac14eb8939f1dd5&" alt="Project Bright Minds Screenshot" width="100" height="100"/>
+
 
 A purposeful application designed to make cognitive assessment for children with developmental disabilities an engaging and stress-free experience. This project showcases our expertise in accessible UI/UX, serious games, and secure data handling.
 
@@ -37,7 +35,6 @@ A purposeful application designed to make cognitive assessment for children with
 
 ### 2. Community Cafe : Simplified Collection for NGOs help
 
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425187683063435425/1.jpg?ex=68e6acf6&is=68e55b76&hm=7cad8bc4b3c73fbec2ec33aaa3aa033b62ed046c61ec26528915496d4064cc1d&" alt="Project 2 Screenshot" width="100" height="100"/>
 
 A simplified platform for NGOs to easily collect, manage, and organize donations and resources, making community support more accessible and efficient.
 
@@ -52,13 +49,24 @@ A simplified platform for NGOs to easily collect, manage, and organize donations
 
 ### 3. FlixFlow : Your world of nonstop entertainment, streaming at your fingertips. 
 
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425192218460688415/image.png?ex=68e6b12f&is=68e55faf&hm=145719511edb70c6a0817fe42a4455325b7be0547bb711e67e483b26eb3ddc41&" alt="Project 3 Screenshot" width="100" height="100"/>
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425192646707646564/image.png?ex=68e6b195&is=68e56015&hm=3d688ab14f1e77ff6ba62b55472ef54e856dd31600c7231f87d7f5564bf197eb&" alt="Project 3 Screenshot" width="100" height="100"/>
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425192874663874570/image.png?ex=68e6b1cc&is=68e5604c&hm=e8b2b962bb424d26773ff67b855f81461280784b8fa7b404fd8d9b8ae6226f84&" alt="Project 3 Screenshot" width="100" height="100"/>
-<img src="https://cdn.discordapp.com/attachments/865420585437102090/1425192950639624214/image.png?ex=68e6b1de&is=68e5605e&hm=0f02735cf5eff6d74e0b11d4f065d74461007eb4e8530015cd1465d2e0cf45e9&" alt="Project 3 Screenshot" width="100" height="100"/>
+
 
 FlixFlow brings you nonstop entertainment with unlimited movies, shows, and live content, all in one place. Enjoy seamless streaming anytime, anywhere, making your favorite entertainment just a tap away.
 Our Expertise & Services
+
+**[Tech Stack:]** Unreal Engine, C++, AWS, Google Cloud
+
+**[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
+
+**➡️ [View Full Case Study]([LINK_TO_PROJECT_2_CASE_STUDY_FILE])**
+
+
+### 4. Animie : Animie Streaming App. 
+
+
+
+Animie is your go-to anime streaming app, offering the latest episodes, timeless classics, and exclusive titles. Discover, watch, and enjoy anime anytime, anywhere with a smooth and ad-free experience.
+Our Experties
 
 **[Tech Stack:]** Unreal Engine, C++, AWS, Google Cloud
 
