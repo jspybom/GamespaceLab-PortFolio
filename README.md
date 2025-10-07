@@ -29,7 +29,7 @@ A purposeful application designed to make cognitive assessment for children with
 
 **[Keywords:]** #EdTech #HealthTech #SeriousGames #Gamification #AR
 
-**➡️ [View Full Case Study]([LINK_TO_FULL_CASE_STUDY_FILE])**
+**➡️ [View Full Case Study]([PROJECT_BRIGHT_MINDS])**
 
 ---
 
@@ -43,7 +43,7 @@ A simplified platform for NGOs to easily collect, manage, and organize donations
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [View Full Case Study]([LINK_TO_PROJECT_2_CASE_STUDY_FILE])**
+**➡️ [View Full Case Study]([COMMUNITY_CAFE])**
 
 ---
 
@@ -58,7 +58,7 @@ Our Expertise & Services
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [View Full Case Study]([LINK_TO_PROJECT_2_CASE_STUDY_FILE])**
+**➡️ [View Full Case Study]([FLIXFLOW])**
 
 
 ### 4. Animie : Animie Streaming App. 
@@ -72,7 +72,7 @@ Our Experties
 
 **[Keywords:]** #AR #StrategyRPG #MobileGaming #UnrealEngine
 
-**➡️ [View Full Case Study]([LINK_TO_PROJECT_2_CASE_STUDY_FILE])**
+**➡️ [View Full Case Study]([ANIMIE])**
 
 ---
 We are a full-cycle development studio. Our lab is equipped to handle:
