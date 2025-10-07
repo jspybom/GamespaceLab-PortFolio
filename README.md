@@ -91,5 +91,5 @@ AnimLax is your go-to anime streaming app, offering the latest episodes, timeles
 
 Have an idea for a game or a gamified application? We'd love to hear it.
 
-**📧 Email:** `GameSpace Labss@gamil.com`
+**📧 Email:** `gamespacelabs@gamil.com`
 
